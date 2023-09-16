@@ -12,6 +12,7 @@ public class Student {
         System.out.println("ID : "+id);
         System.out.println("Department : "+dept);
     }
+    Fuch Your
 
     public static void main(String[] args) {
         Student s1 = new Student("Abdullah Al Mahmud","221-15-5658","CSE");
